@@ -1,1 +1,1 @@
-# TodoApp
+In order to open env, source bin/activate
